@@ -2,8 +2,11 @@ package org.coollibrary;
 
 public class DoCoolStuff {
 
-    public void doCoolStuff() {
-
+    public static String sayHello() {
+        return "Hello";
+    }
+    public static String sayGoodbye() {
+        return "Hello";
     }
 
 }
