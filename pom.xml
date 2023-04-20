@@ -8,6 +8,31 @@
     <artifactId>cool-library</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <name>Supply Chain Security Demo, DO NOT USE</name>
+    <description>Supply Chain Security Demo, DO NOT USE</description>
+    <url>https://github.com/stuartwdouglas/cool-library</url>
+    <scm>
+        <url>https://github.com/stuartwdouglas/cool-library</url>
+    </scm>
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+    <developers>
+        <developer>
+            <name>Stuart Douglas</name>
+        </developer>
+    </developers>
+    <distributionManagement>
+        <snapshotRepository>
+            <id>ossrh</id>
+            <url>https://s01.oss.sonatype.org/content/repositories/snapshots</url>
+        </snapshotRepository>
+    </distributionManagement>
+
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
