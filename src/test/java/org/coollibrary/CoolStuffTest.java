@@ -10,4 +10,8 @@ public class CoolStuffTest {
         Assertions.assertEquals("Hello", DoCoolStuff.sayHello());
     }
 
+    @Test
+    public void testSayGoodbye() {
+        Assertions.assertEquals("Goodbye", DoCoolStuff.sayGoodbye());
+    }
 }

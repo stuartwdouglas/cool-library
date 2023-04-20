@@ -6,7 +6,7 @@ public class DoCoolStuff {
         return "Hello";
     }
     public static String sayGoodbye() {
-        return "Hello";
+        return "Goodbye";
     }
 
 }

@@ -6,7 +6,7 @@
 
     <groupId>io.github.stuartwdouglas.supply-chain-security.cool-lib</groupId>
     <artifactId>cool-library</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <name>Supply Chain Security Demo, DO NOT USE</name>
     <description>Supply Chain Security Demo, DO NOT USE</description>
